@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name":"Car Engine Plug",
+        "img":"https://www.cbac.com/images/blog/blog-17.5.jpg",
+        "price":"200"
+    },
+    {
+        "id":"2",
+        "name":"Car Window Glass",
+        "img":"https://5.imimg.com/data5/SELLER/Default/2021/2/DD/LV/KW/41748347/car-window-glass-500x500.jpg",
+        "price":"200"
+    },
+    {
+        "id":"3",
+        "name":"Car Air Filter",
+        "img":"https://marvel-b1-cdn.bc0a.com/f00000000027094/ix-cdn.b2e5.com/images/27094/27094_d8736b476cef4b9391cb8f01cb25e371_1539205522.jpeg",
+        "price":"40.00"
+    },
+    {
+        "id":"4",
+        "name":"Car HeadLights",
+        "img":"https://i.pinimg.com/736x/80/25/83/802583a649951df28660904e73a980f9.jpg",
+        "price":"35.00"
+    },
+    {
+        "id":"5",
+        "name":"Car Battery",
+        "img":"https://st.depositphotos.com/2001617/1903/v/450/depositphotos_19032781-stock-illustration-car-battery.jpg",
+        "price":"20.00"
+    },
+    {
+        "id":"6",
+        "name":"Car Break Disk",
+        "img":"https://media.istockphoto.com/photos/car-brake-disc-and-red-caliper-isolated-picture-id976970678?k=20&m=976970678&s=612x612&w=0&h=SLhb4nDVyww8EH1gYTlUbKJ-5UrA8zJbpJ0WHuC3KR4=",
+        "price":"200"
+    }
+]
